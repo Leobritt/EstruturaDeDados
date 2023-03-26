@@ -11,7 +11,7 @@ public class Program {
 		livro.insere("O pequeno principe", "Agir", "1943");
 		livro.insere("O nome da rosa", " Editora Record", "1980");
 		livro.insere("As crônicas de Nárnia: O leão, a feiticeira e o guarda-roupa", "WMF Martins Fontes", "1950");
-		
+		livro.insere("Sapiens", "Yuval Noah Harari", "2011");
 		
 		System.out.println("---LISTA---");
 		livro.listar();
