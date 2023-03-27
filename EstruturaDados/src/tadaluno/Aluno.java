@@ -1,4 +1,4 @@
-package segundaatv;
+package tadaluno;
 
 public class Aluno implements AlunoInterface{
 

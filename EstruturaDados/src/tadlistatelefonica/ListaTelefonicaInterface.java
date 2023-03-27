@@ -1,4 +1,4 @@
-package sextaatv;
+package tadlistatelefonica;
 
 public interface ListaTelefonicaInterface {
 	void inserir(String tel, String nome);

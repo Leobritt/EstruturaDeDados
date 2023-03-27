@@ -1,4 +1,4 @@
-package sextaatv;
+package tadlistatelefonica;
 
 public class ListaTelefonica implements ListaTelefonicaInterface {
 

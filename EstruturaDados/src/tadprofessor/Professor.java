@@ -1,4 +1,4 @@
-package terceiraatv;
+package tadprofessor;
 
 public class Professor implements ProfessorInterface {
 

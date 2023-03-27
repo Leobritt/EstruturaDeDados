@@ -1,4 +1,4 @@
-package quintaatv;
+package tadbankaccount;
 
 public interface BankAccountInterface {
 	void atualizar();

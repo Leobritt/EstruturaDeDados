@@ -1,4 +1,4 @@
-package segundaatv;
+package tadaluno;
 
 public interface AlunoInterface {
 	void insere(String nome, String semestre);

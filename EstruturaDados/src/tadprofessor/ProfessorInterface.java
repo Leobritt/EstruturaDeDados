@@ -1,4 +1,4 @@
-package terceiraatv;
+package tadprofessor;
 
 public interface ProfessorInterface {
 	void listar();
